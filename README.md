@@ -6,7 +6,7 @@ Sometimes you need to install a package and there are network errors with `yarn 
 
 ## Usage
 ```sh
-npm install yarn tyarn -g
+npm install yarn iyarn -g
 ```
 then add your package of choice with `iyarn`.
 ```sh

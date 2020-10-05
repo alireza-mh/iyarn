@@ -16,3 +16,7 @@ also you can use it without installing iyarn:
 ```sh
 npx iyarn add react
 ```
+
+## License
+
+[MIT](https://github.com/nishanths/license/blob/master/LICENSE)

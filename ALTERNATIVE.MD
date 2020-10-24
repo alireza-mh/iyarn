@@ -29,3 +29,15 @@ So what is a downside of this method?
 In my opinion you have to remember that you have changed your default registery and in case you wan't to publish a library or package to `npm` you need to overide this registery.
 [more info](https://stackoverflow.com/questions/49898859/how-to-specify-local-registry-in-yarn)
 
+
+
+### Use `nrm` or `yrm`
+use [`nrm`](https://github.com/Pana/nrm) or [`yrm`](https://github.com/i5ting/yrm) that give you some choices of registery and change your default one.
+
+install commands:
+```sh
+npm install -g yrm
+```
+```sh
+$ npm install -g nrm
+```

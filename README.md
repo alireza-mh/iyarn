@@ -1,3 +1,4 @@
+![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)
 # iyarn
 Alternative yarn for iran in case default registiry is not accesseble for various reasons.
 

@@ -1,16 +1,14 @@
 {
   "name": "iyarn",
-  "version": "0.1.0",
+  "version": "0.3.2",
   "description": "yarn using none-sanction registry",
+  "homepage": "https://github.com/alireza-mh/iyarn",
+  "repository": "github:alireza-mh/iyarn",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "bin": {
     "iyarn": "./lib/index.js"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git@github.com:alireza-mh/iyarn.git"
   },
   "keywords": [
     "yarn"

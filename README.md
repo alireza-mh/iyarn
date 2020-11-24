@@ -1,5 +1,6 @@
 # iyarn
 ![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)
+![NPM version](https://img.shields.io/npm/v/iyarn?color=green)
 
 Alternative yarn for iran in case default registiry is not accesseble for various reasons.
 
